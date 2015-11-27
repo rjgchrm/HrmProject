@@ -1,0 +1,20 @@
+{
+  "name": "HrmProject",
+  "version": "0.0.1",
+  "keywords": [
+    "hrmproject"
+  ],
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower/"
+  ],
+  "dependencies": {
+    "require-css": "0.1.8",
+    "requirejs": "2.1.20",
+    "angular": "1.4.6",
+    "angular-couch-potato": "0.1.1",
+    "jquery": "2.1.4"
+  }
+}
